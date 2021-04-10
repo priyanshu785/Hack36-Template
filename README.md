@@ -19,6 +19,8 @@
 
 ## Contributors:
 
+Team Name: OP Squad
+
 * [Anuj Modi](https://github.com/descifrado)
 * [Arsh Singh](https://github.com/iosdev474)
 * [Shashwat Pandey](https://github.com/shashwat1998)
